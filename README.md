@@ -1,5 +1,5 @@
 # Learnings
-Business Process & Analysis
+Business Analysis & Process
 
 Python for Beginners
 
