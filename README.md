@@ -1,11 +1,9 @@
 # Learnings
-Investment Banking
+Business Process & Analysis
 
 Python for Beginners
 
 SalesForce Associate
-
-PMBOK 7
 
 JP Morgan - Excel Skills!
 
